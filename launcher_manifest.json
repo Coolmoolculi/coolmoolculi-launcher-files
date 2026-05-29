@@ -2,9 +2,30 @@
   "launcher_version": "0.1.0",
   "news": [
     "Online manifest test works.",
-    "End of the World downloads will be added soon.",
+    "End of the World Beta 2.1 is now downloadable.",
     "Kaiju Alert is archived as a discontinued RAPTOR game.",
     "Five Nights at Cisco's is a future concept."
   ],
-  "games": []
+  "games": [
+    {
+      "name": "End of the World",
+      "description": "A RPG gacha project about collecting units, building a party, opening chests, and fighting through the end of the world.",
+      "status": "ACTIVE",
+      "latest_version": "Beta_version_2.1",
+      "download_url": "https://github.com/Coolmoolculi/coolmoolculi-launcher-files/releases/download/eotw-beta-2.1/End.of.The.World.Beta.2.1.zip",
+      "install_folder": "End Of The World",
+      "launch_file": "End Of The World Beta 2.1.exe",
+      "patch_notes": [
+        "Added Coolmoolculi Launcher support",
+        "Added game library menu",
+        "Added version selection",
+        "Added patch notes per version",
+        "Added better launch system",
+        "Added attack rotation animation",
+        "Added miss flash indicator",
+        "Nerfed Fire status",
+        "Improved battle speed feel"
+      ]
+    }
+  ]
 }
